@@ -1,5 +1,5 @@
 # ⚠️ Importante!!!
-Você pode escolher qualquer um dos desafios para desenvolver. Sinta-se à vontade para começar pelo desafio que mais lhe interessa.
+Estes desafios foram desenvolvidos como parte das atividades da faculdade Estácio, na disciplina de Programação em C, cursada no 1º semestre.
 
 # Desafio Batalha Naval - Três Níveis de Complexidade
 
